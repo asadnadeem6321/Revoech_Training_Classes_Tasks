@@ -43,3 +43,17 @@ A Python program that defines a class `LinkedList` with methods to:
 
 
 ---
+
+### 5- Write a Python program to create a class representing a shopping cart. Include methods for adding and removing items,
+- and calculating the total price. 
+
+### 6- Write a Python program to create a class representing a queue data structure. Include methods for enqueueing and dequeueing elements. 
+
+### 7- Write a Python program to create a class representing a bank. Include methods for managing customer accounts and transactions. 
+
+### 8- Create an interface Shape with methods area() and perimeter(). Implement this interface in Rectangle and Circle classes.
+
+###  9-Implement a class Account with a private attribute balance and provide methods to deposit and withdraw safely,
+- checking for suffici5- Write a Python program to create a class representing a shopping cart.
+- Include methods for adding and removing items, and calculating the total price.
+
